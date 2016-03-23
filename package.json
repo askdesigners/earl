@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^1.5.0",
+    "express": "3.4.8",
+    "google-translate": "^1.0.3",
+    "less-middleware": "1.0.*",
+    "mu2": "0.5.x",
+    "optimist": ">= 0.0.1",
+    "slack-client": "^1.5.0"
+  }
+}
